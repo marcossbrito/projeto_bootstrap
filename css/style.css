@@ -1,0 +1,33 @@
+
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar{
+    background-color: #298A08;
+}
+
+.opcao1{
+    background-color: #8181f7;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.opcao2{
+    background-color: teal;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.opcao3{
+    background-color: tomato;
+    color: white;
+}
